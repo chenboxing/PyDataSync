@@ -1,0 +1,35 @@
+[2014-02-14 16:43:38,585](INFO)example : Begin to process
+[2014-02-14 16:49:45,056](INFO)example : Begin to process
+[2014-02-14 16:51:26,211](INFO)example : Begin to process
+[2014-02-14 16:57:55,275](INFO)example : Begin to process
+[2014-02-14 17:01:36,316](INFO)example : Begin to process
+[2014-02-14 17:03:16,967](INFO)example : Begin to process
+[2014-02-14 17:07:15,993](INFO)example : Begin to process
+[2014-02-14 17:07:41,368](INFO)example : Begin to process
+[2014-02-14 17:07:47,717](INFO)example : Begin to process
+[2014-02-14 17:08:31,957](INFO)example : Begin to process
+[2014-02-14 17:08:48,887](INFO)example : Begin to process
+[2014-02-14 17:09:38,987](INFO)example : Begin to process
+[2014-02-14 17:09:38,987](INFO)example : Begin to process a 
+[2014-02-14 17:09:46,819](INFO)example : Begin to process
+[2014-02-14 17:09:59,466](INFO)example : Begin to process
+[2014-02-14 17:10:08,391](INFO)example : Begin to process
+[2014-02-14 17:10:08,391](INFO)example : Begin to process a b 
+[2014-02-14 17:10:43,532](INFO)example : Begin to process
+[2014-02-14 17:10:43,532](INFO)example : DRIVER={SQL Server};SERVER=211.102.90.84;DATABASE=DaysNetPortal;UID=DaysPortal;;PWD=pass@word
+[2014-02-14 17:12:01,552](INFO)example : Begin to process
+[2014-02-14 17:12:01,552](INFO)example : DRIVER={SQL Server};SERVER=211.102.90.84;DATABASE=DaysNetPortal;UID=DaysPortal;;PWD=pass@word
+[2014-02-14 17:13:17,242](INFO)example : Begin to process
+[2014-02-14 17:13:17,242](INFO)example : DRIVER={SQL Server};SERVER=211.102.90.84;DATABASE=DaysNetPortal;UID=DaysPortal;PWD=pass@word
+[2014-02-14 17:13:45,049](INFO)example : Begin to process
+[2014-02-14 17:13:45,049](INFO)example : DRIVER={SQL Server};SERVER=211.102.90.84;DATABASE=DaysNetPortal;UID=DaysPortal;PWD=pass@word1
+[2014-02-14 17:14:24,956](INFO)example : Begin to process
+[2014-02-14 17:14:24,956](INFO)example : DRIVER={SQL Server};SERVER=211.102.90.84;DATABASE=DaysNetPortal;UID=DaysPortal;PWD=pass@word1
+[2014-02-14 17:16:50,653](INFO)example : Begin to process
+[2014-02-14 17:16:50,653](INFO)example : DRIVER={SQL Server};SERVER=211.102.90.84;DATABASE=DaysNetPortal;UID=DaysPortal;PWD=pass@word1
+[2014-02-14 17:16:53,233](INFO)example : Finished
+[2014-02-14 17:17:36,890](INFO)example : Begin to process
+[2014-02-14 17:17:36,890](INFO)example : DRIVER={SQL Server};SERVER=211.102.90.84;DATABASE=DaysNetPortal;UID=DaysPortal;PWD=pass@word1
+[2014-02-14 17:17:37,562](INFO)example : rails-template-develop folder doesn't exists on db
+[2014-02-14 17:17:37,562](INFO)example : WebsitePanel.WHMCSModule folder doesn't exists on db
+[2014-02-14 17:17:37,562](INFO)example : Finished

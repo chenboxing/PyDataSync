@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<title>Steven Harms</title>
+	</head>
+	<body>
+        <table>
+            {% for source in sources %}
+                <tr>
+                       <td>{{ source.name }}</td>
+                        <td>{{ source.ftp_user }}</td>
+                </tr>
+            {% endfor %}
+        </table>
+	</body>
+</html>
